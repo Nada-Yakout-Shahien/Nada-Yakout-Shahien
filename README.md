@@ -1,4 +1,4 @@
-بالطبع، إليك الترجم
+
 -👋 Hi, I’m @Nada-Yakout-Shahien
 -👀 I’m interested in exploring innovative technologies and contributing to open-source projects.
 -🌱 I’m currently learning artificial intelligence and developing my skills as a front-end developer.
