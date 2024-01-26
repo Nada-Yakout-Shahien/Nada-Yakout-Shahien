@@ -1,7 +1,8 @@
 
--👋 Hi, I’m @Nada-Yakout-Shahien ♥
+-👋 Hi, I’m @Nada-Yakout-Shahien ♥ ,a tech enthusiast with a passion for exploring innovative technologies and contributing to open-source projects. Currently on a journey to master artificial intelligence and enhance my skills as a front-end developer.
 
 -👀 I’m interested in exploring innovative technologies and contributing to open-source projects.
+🌐 Front-end Development | 🤖 Artificial Intelligence | 🌱 Open Source
 
 -🌱 I’m currently learning artificial intelligence and developing my skills as a front-end developer.
 
